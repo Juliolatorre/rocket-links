@@ -17,9 +17,9 @@
 
 ## 📋 Sobre
 
-O **Rocketlinks** é um centralizador de links, projeto desenvolvido durante a **[Maratona Explorer 2.0](https://evento.rocketseat.com.br/maratona-explorer)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 03 a 06 de Julho de 2022.
+O **Rocketlinks** é um centralizador de links similar ao LinkTree, que reune endereços da web em um só lugar. Projeto desenvolvido durante a **[Maratona Explorer 2.0](https://evento.rocketseat.com.br/maratona-explorer)**, realizado pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 03 ao 06 de Julho de 2022.
 
-Projeto da **Maratona Explorer 2.0.** com a criação de uma tema diferente, que foi proposto como desafio no final da maratona.
+Projeto da **Maratona Explorer 2.0.** com a criação de uma tema diferente, desafio proposto no final da maratona.
 
 ---
 
