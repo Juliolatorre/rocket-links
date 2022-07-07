@@ -1,7 +1,7 @@
 # RocketLinks
 
 <h1 align="center">
- <img src="https://i.imgur.com/ZvOCnbZ.png" alt="imagem" width="500"/>  
+ <img src="https://i.imgur.com/oKIjyUH.png" alt="imagem" width="500"/>  
 </h1>
 
 ---
