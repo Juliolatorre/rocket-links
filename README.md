@@ -4,7 +4,6 @@
  <img src="https://i.imgur.com/ZvOCnbZ.png" alt="imagem" width="500"/>  
 </h1>
 
-
 ---
 
 # Indice
@@ -18,9 +17,9 @@
 
 ## 📋 Sobre
 
-O **Rocketlinks** é um centralizador de links, projeto desenvolvido durante a **[Maratona Explorer 2.0](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 03 a 06 de Julho de 2022.
+O **Rocketlinks** é um centralizador de links, projeto desenvolvido durante a **[Maratona Explorer 2.0](https://evento.rocketseat.com.br/maratona-explorer)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 03 a 06 de Julho de 2022.
 
-Projeto da **Maratona Explorer 2.0.**
+Projeto da **Maratona Explorer 2.0.** com a criação de uma tema diferente, que foi proposto como desafio no final da maratona.
 
 ---
 
@@ -44,7 +43,7 @@ Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com/) par
 ---
 
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](https://github.com/Juliolatorre/nlw3-discovery-happy/blob/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](https://github.com/Juliolatorre/rocket-links/blob/master/LICENSE) para mais detalhes.
 
 ---
 
