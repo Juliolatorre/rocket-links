@@ -35,10 +35,10 @@ Esse projeto foi desenvolvido utilizando apenas:
 
    Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Layout Web](https://www.figma.com/community/file/11256016023157820271)  
+- [Layout Web](https://www.figma.com/community/file/1125601602315782027)  
 
 
-Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com/) para poder acessá-lo e duplicá-lo.
+Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com/) para poder acessá-lo.
 
 ---
 
